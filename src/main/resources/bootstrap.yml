@@ -1,0 +1,5 @@
+encrypt:
+  key-store:
+    location: classpath:config-server.p12
+    password: secret-password
+    alias: graphql-demo
